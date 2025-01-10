@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{052C1501-F49A-497E-BE9D-FD75B15A059C}|Exercicio3\\Exercicio3.csproj|c:\\users\\faire\\source\\repos\\targetsistemas\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052C1501-F49A-497E-BE9D-FD75B15A059C}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE1927F-6B81-40B0-91F4-F8F5BDC841FD}|TargetSistemas\\TargetSistemas.csproj|c:\\users\\faire\\source\\repos\\targetsistemas\\targetsistemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE1927F-6B81-40B0-91F4-F8F5BDC841FD}|TargetSistemas\\TargetSistemas.csproj|solutionrelative:targetsistemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052C1501-F49A-497E-BE9D-FD75B15A059C}|Exercicio3\\Exercicio3.csproj|c:\\users\\faire\\source\\repos\\targetsistemas\\exercicio3\\faturamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052C1501-F49A-497E-BE9D-FD75B15A059C}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\faturamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE1927F-6B81-40B0-91F4-F8F5BDC841FD}|TargetSistemas\\TargetSistemas.csproj|c:\\users\\faire\\source\\repos\\targetsistemas\\targetsistemas\\faturamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE1927F-6B81-40B0-91F4-F8F5BDC841FD}|TargetSistemas\\TargetSistemas.csproj|solutionrelative:targetsistemas\\faturamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3896BA6-2A9A-4B8E-9250-F582525C8525}|Exercicio1\\Exercicio1.csproj|c:\\users\\faire\\source\\repos\\targetsistemas\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3896BA6-2A9A-4B8E-9250-F582525C8525}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,20 +35,12 @@
       "RelativeMoniker": "D:0:0:{5AA38D06-5693-454A-9158-C0A0EBA013DC}|Exercicio5\\Exercicio5.csproj|solutionrelative:exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE1927F-6B81-40B0-91F4-F8F5BDC841FD}|TargetSistemas\\TargetSistemas.csproj|c:\\users\\faire\\source\\repos\\targetsistemas\\targetsistemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EE1927F-6B81-40B0-91F4-F8F5BDC841FD}|TargetSistemas\\TargetSistemas.csproj|solutionrelative:targetsistemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4EE1927F-6B81-40B0-91F4-F8F5BDC841FD}|TargetSistemas\\TargetSistemas.csproj|c:\\users\\faire\\source\\repos\\targetsistemas\\targetsistemas\\targetsistemas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4EE1927F-6B81-40B0-91F4-F8F5BDC841FD}|TargetSistemas\\TargetSistemas.csproj|solutionrelative:targetsistemas\\targetsistemas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3896BA6-2A9A-4B8E-9250-F582525C8525}|Exercicio1\\Exercicio1.csproj|c:\\users\\faire\\source\\repos\\targetsistemas\\exercicio1\\exercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B3896BA6-2A9A-4B8E-9250-F582525C8525}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\exercicio1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EE1927F-6B81-40B0-91F4-F8F5BDC841FD}|TargetSistemas\\TargetSistemas.csproj|c:\\users\\faire\\source\\repos\\targetsistemas\\targetsistemas\\faturamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EE1927F-6B81-40B0-91F4-F8F5BDC841FD}|TargetSistemas\\TargetSistemas.csproj|solutionrelative:targetsistemas\\faturamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,28 +50,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 839,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TargetSistemas",
-              "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\TargetSistemas\\TargetSistemas.csproj",
-              "RelativeDocumentMoniker": "TargetSistemas\\TargetSistemas.csproj",
-              "ToolTip": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\TargetSistemas\\TargetSistemas.csproj",
-              "RelativeToolTip": "TargetSistemas\\TargetSistemas.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-10T01:44:55.466Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Faturamentos.cs",
+              "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\Exercicio3\\Faturamentos.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Faturamentos.cs",
+              "ToolTip": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\Exercicio3\\Faturamentos.cs",
+              "RelativeToolTip": "Exercicio3\\Faturamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:21:12.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\Exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\Exercicio3\\Program.cs",
+              "RelativeToolTip": "Exercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:20:26.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TargetSistemas.csproj",
+              "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\TargetSistemas\\TargetSistemas.csproj",
+              "RelativeDocumentMoniker": "TargetSistemas\\TargetSistemas.csproj",
+              "ToolTip": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\TargetSistemas\\TargetSistemas.csproj",
+              "RelativeToolTip": "TargetSistemas\\TargetSistemas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T01:44:55.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\Exercicio5\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio5\\Program.cs",
@@ -71,12 +104,11 @@
               "RelativeToolTip": "Exercicio5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T01:56:07.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T01:56:07.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\Exercicio4\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio4\\Program.cs",
@@ -84,12 +116,11 @@
               "RelativeToolTip": "Exercicio4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T01:54:07.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T01:54:07.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\Exercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
@@ -97,25 +128,23 @@
               "RelativeToolTip": "Exercicio2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T01:50:15.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T01:50:15.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Exercicio1",
+              "DocumentIndex": 9,
+              "Title": "Exercicio1.csproj",
               "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\Exercicio1\\Exercicio1.csproj",
               "RelativeDocumentMoniker": "Exercicio1\\Exercicio1.csproj",
               "ToolTip": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\Exercicio1\\Exercicio1.csproj",
               "RelativeToolTip": "Exercicio1\\Exercicio1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-10T01:47:08.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T01:47:08.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\Exercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
@@ -128,26 +157,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Faturamentos.cs",
               "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\TargetSistemas\\Faturamentos.cs",
               "RelativeDocumentMoniker": "TargetSistemas\\Faturamentos.cs",
               "ToolTip": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\TargetSistemas\\Faturamentos.cs",
               "RelativeToolTip": "TargetSistemas\\Faturamentos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T01:41:16.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\TargetSistemas\\Program.cs",
               "RelativeDocumentMoniker": "TargetSistemas\\Program.cs",
               "ToolTip": "C:\\Users\\faire\\source\\repos\\TargetSistemas\\TargetSistemas\\Program.cs",
               "RelativeToolTip": "TargetSistemas\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T01:40:43.004Z",
               "EditorCaption": ""
